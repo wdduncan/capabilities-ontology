@@ -10,6 +10,7 @@ Links to slides and videos for all the talks are available at these links:
 http://ncorwiki.buffalo.edu/index.php/Capabilities:_Human_and_Machine
 https://www.youtube.com/channel/UCMAyKOCJf8c2aJFMdRcNgPw
 
+Presentations are also found in the documents directory, also the content might be out of date with what is posted on the above sites.
 
 Current members are:
 - Bill Duncan 
