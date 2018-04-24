@@ -2,6 +2,8 @@
 The purpose of this repository is to coordinate efforts to potentially create an ontology of capabilities.
 
 A web-protege version of the ontology named 'Capability Ontology v_22 April 2018' is available at https://webprotege.stanford.edu
+
+
 To access the web-protege version you need to create a user account and email Bill Mandrick for permission to access it.
 
 Links to slides and videos for all the talks are available at these links:
