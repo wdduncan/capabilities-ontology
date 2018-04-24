@@ -10,13 +10,13 @@ https://www.youtube.com/channel/UCMAyKOCJf8c2aJFMdRcNgPw
 
 
 Current members are:
-Bill Duncan 
-Shane Hemmer 
-Peter Koch 
-Andrew Olewnik 
-Rasmus Larsen 
-Barry Smith 
-Aditi Sonal
-Barry Smith
-Bill Mandrick
-Farhad Ameri
+- Bill Duncan 
+- Shane Hemmer 
+- Peter Koch 
+- Andrew Olewnik 
+- Rasmus Larsen 
+- Barry Smith 
+- Aditi Sonal
+- Barry Smith
+- Bill Mandrick
+- Farhad Ameri
